@@ -1,0 +1,18 @@
+# Sample YAML data
+person:
+  name: John Doe
+  age: 30
+  address:
+    street: 123 Main St
+    city: Anytown
+    state: CA
+    zip: 12345
+  phone_numbers:
+    - 555-1234
+    - 555-5678
+  email: john.doe@example.com
+  is_active: true
+  hobbies:
+    - reading
+    - hiking
+    - coding
